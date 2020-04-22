@@ -1,0 +1,6 @@
+<!-- Altered by Annexamus: app_name changed -->
+
+<resources>
+    <string name="app_name">UseDelight</string>
+    <string name="action_settings">Settings</string>
+</resources>

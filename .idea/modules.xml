@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/365browser-master.iml" filepath="$PROJECT_DIR$/365browser-master.iml" group="365browser-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/365browser-master-app.iml" filepath="$PROJECT_DIR$/app/365browser-master-app.iml" group="365browser-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/365browser-master-libraries.iml" filepath="$PROJECT_DIR$/libraries/365browser-master-libraries.iml" group="365browser-master/libraries" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/androidmedia_res/365browser-master-libraries-androidmedia_res.iml" filepath="$PROJECT_DIR$/libraries/androidmedia_res/365browser-master-libraries-androidmedia_res.iml" group="365browser-master/libraries/androidmedia_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/autofill_res/365browser-master-libraries-autofill_res.iml" filepath="$PROJECT_DIR$/libraries/autofill_res/365browser-master-libraries-autofill_res.iml" group="365browser-master/libraries/autofill_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/chrome_res/365browser-master-libraries-chrome_res.iml" filepath="$PROJECT_DIR$/libraries/chrome_res/365browser-master-libraries-chrome_res.iml" group="365browser-master/libraries/chrome_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/content_res/365browser-master-libraries-content_res.iml" filepath="$PROJECT_DIR$/libraries/content_res/365browser-master-libraries-content_res.iml" group="365browser-master/libraries/content_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/datausagechart_res/365browser-master-libraries-datausagechart_res.iml" filepath="$PROJECT_DIR$/libraries/datausagechart_res/365browser-master-libraries-datausagechart_res.iml" group="365browser-master/libraries/datausagechart_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/delegate_res/365browser-master-libraries-delegate_res.iml" filepath="$PROJECT_DIR$/libraries/delegate_res/365browser-master-libraries-delegate_res.iml" group="365browser-master/libraries/delegate_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/gms_res/365browser-master-libraries-gms_res.iml" filepath="$PROJECT_DIR$/libraries/gms_res/365browser-master-libraries-gms_res.iml" group="365browser-master/libraries/gms_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/media_res/365browser-master-libraries-media_res.iml" filepath="$PROJECT_DIR$/libraries/media_res/365browser-master-libraries-media_res.iml" group="365browser-master/libraries/media_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/ui_res/365browser-master-libraries-ui_res.iml" filepath="$PROJECT_DIR$/libraries/ui_res/365browser-master-libraries-ui_res.iml" group="365browser-master/libraries/ui_res" />
+      <module fileurl="file://$PROJECT_DIR$/StudioProjects-365browser-master.iml" filepath="$PROJECT_DIR$/StudioProjects-365browser-master.iml" group="365browser-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/StudioProjects-365browser-master-app.iml" filepath="$PROJECT_DIR$/app/StudioProjects-365browser-master-app.iml" group="365browser-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/StudioProjects-365browser-master-libraries.iml" filepath="$PROJECT_DIR$/libraries/StudioProjects-365browser-master-libraries.iml" group="365browser-master/libraries" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/androidmedia_res/androidmedia_res.iml" filepath="$PROJECT_DIR$/libraries/androidmedia_res/androidmedia_res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/autofill_res/autofill_res.iml" filepath="$PROJECT_DIR$/libraries/autofill_res/autofill_res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/chrome_res/chrome_res.iml" filepath="$PROJECT_DIR$/libraries/chrome_res/chrome_res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/content_res/content_res.iml" filepath="$PROJECT_DIR$/libraries/content_res/content_res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/datausagechart_res/datausagechart_res.iml" filepath="$PROJECT_DIR$/libraries/datausagechart_res/datausagechart_res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/delegate_res/delegate_res.iml" filepath="$PROJECT_DIR$/libraries/delegate_res/delegate_res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/gms_res/gms_res.iml" filepath="$PROJECT_DIR$/libraries/gms_res/gms_res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/androidmedia_res/libraries-androidmedia_res.iml" filepath="$PROJECT_DIR$/libraries/androidmedia_res/libraries-androidmedia_res.iml" group="365browser-master/libraries/androidmedia_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/autofill_res/libraries-autofill_res.iml" filepath="$PROJECT_DIR$/libraries/autofill_res/libraries-autofill_res.iml" group="365browser-master/libraries/autofill_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/chrome_res/libraries-chrome_res.iml" filepath="$PROJECT_DIR$/libraries/chrome_res/libraries-chrome_res.iml" group="365browser-master/libraries/chrome_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/content_res/libraries-content_res.iml" filepath="$PROJECT_DIR$/libraries/content_res/libraries-content_res.iml" group="365browser-master/libraries/content_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/datausagechart_res/libraries-datausagechart_res.iml" filepath="$PROJECT_DIR$/libraries/datausagechart_res/libraries-datausagechart_res.iml" group="365browser-master/libraries/datausagechart_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/delegate_res/libraries-delegate_res.iml" filepath="$PROJECT_DIR$/libraries/delegate_res/libraries-delegate_res.iml" group="365browser-master/libraries/delegate_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/gms_res/libraries-gms_res.iml" filepath="$PROJECT_DIR$/libraries/gms_res/libraries-gms_res.iml" group="365browser-master/libraries/gms_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/media_res/libraries-media_res.iml" filepath="$PROJECT_DIR$/libraries/media_res/libraries-media_res.iml" group="365browser-master/libraries/media_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/ui_res/libraries-ui_res.iml" filepath="$PROJECT_DIR$/libraries/ui_res/libraries-ui_res.iml" group="365browser-master/libraries/ui_res" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/media_res/media_res.iml" filepath="$PROJECT_DIR$/libraries/media_res/media_res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/ui_res/ui_res.iml" filepath="$PROJECT_DIR$/libraries/ui_res/ui_res.iml" />
+    </modules>
+  </component>
+</project>
